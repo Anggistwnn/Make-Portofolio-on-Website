@@ -1,2 +1,2 @@
 # AnggiLatihan1
-Latihan 1 Agustus 2021
+Hasil setelah dihosting http://anggistwnportofolio.epizy.com/
